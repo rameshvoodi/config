@@ -1,1 +1,1 @@
-# These are my config files.
+# These are my config files for tmux and zsh
